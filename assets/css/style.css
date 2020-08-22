@@ -1,0 +1,49 @@
+.body {
+  background-color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+/*seccion de barra de navegacion*/
+.navbar-img {
+  height: 2rem;
+  width: 7.1rem;
+}
+
+.text-form {
+  font-size: 1.21rem;
+}
+
+/*seccion de imagenes*/
+i {
+  color: #707070;
+}
+
+.text-h5 {
+  color: #212529;
+  font-size: 27px;
+}
+
+.text-p1 {
+  font-size: 21px;
+  color: #707070;
+}
+
+.text-p2 {
+  font-size: 15px;
+  color: #707070;
+}
+
+.valor-1 {
+  color: #707070;
+  font-size: 21px;
+}
+
+.valor-2 {
+  font-size: 27px;
+}
+
+/*FOOTER*/
+
+footer{
+  color: #707070;
+}
